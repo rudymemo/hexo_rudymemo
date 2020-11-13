@@ -1,0 +1,47 @@
+<div class="blog-text-center">
+	<% if(is_category()) { %>
+		<i class="fa fa-book"><%= page.category %></i>
+	<% } else if(is_tag()) { %>
+		<i class="fa fa-book"><%= page.tag %></i>
+	<% } else {%>
+		<i class="fa fa-book">总计<%= page.posts.length %>篇文章</i>
+	<% } %>
+</div>  
+
+<% var last_year; var last_month; %>
+
+<% page.posts.each(function(post, i){ %>				
+	<% var year = post.date.year(); %>
+	<% var month = post.date.format('MM'); %>
+	<% var day = post.date.format('DD') %>
+	<% if (last_year != year){ %>
+		<% if (last_year != null){ %>
+			<% last_month = null; %>
+		<% } %>
+
+		<% last_year = year; %>
+		<!-- <a href="<%- url_for(config.archive_dir + '/' + year) %>" class="archive-year"><%= year %></a> -->
+		<h3><%= year %>年</h3>
+	<% } %>
+					
+	<% if (!last_month || last_month != month) {%>
+		<% last_month = month; %>  
+		<div class="archive-year">
+			<ul>
+				<li><%=  month %> 月</li>
+			</ul>
+		</div>				
+	<% } %>  
+	
+	<div class="archive-item">
+		<ul>
+			<li style="list-style: none;">
+				<ul>
+					<li style="list-style: georgian"><%= day %>日：<a href="<%- url_for(post.path) %>" itemprop="url"><%= post.title %></a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>		        							
+<% }) %>
+
+
