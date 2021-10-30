@@ -2,8 +2,8 @@
 menu:
   Whoami: /whoami
   Archives: /archives
-  Motto: /motto
-  Music: /music
+  Motto: https://motto.rudymemo.com/
+  Music: https://music.rudymemo.com/
   MyTrails: https://trails.rudymemo.com/
 
 # 是否显示目录
