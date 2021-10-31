@@ -13,17 +13,17 @@ typora-root-url: ..\..\themes\diaspora\source
 
 ​	从中天门开始就能看到一些挑山工了，问了一下情况，每次挑100斤重的货物，一斤一块钱，每天两次，自己试了一下完全扛不起来，真的了不起。
 
-<img src="../../themes/diaspora/source/img/taishan/IMG_0814.JPG"></img>
+<img src="https://w.wallhaven.cc/full/k7/wallhaven-k7d12m.jpg"></img>
 
 ​	稍微往上走了一下看到救援队抬了一位老人下来，看来爬山也要量力而行，安全第一。
 
-<img src="../../themes/diaspora/source/img/taishan/IMG_0788.JPG"></img>
+<img src="https://w.wallhaven.cc/full/z8/wallhaven-z89q5w.jpg"></img>
 
 ​	一路上也看到不少跪拜的，走几步一跪拜，对于这样的毅力很是感动，每一个虔诚的祈祷都应该被真诚对待。
 
 ​	一路往上爬还看到了一些抗水泥的，努力工作的人啊，一定会有美好的幸福伴随。
 
-<img src="../../themes/diaspora/source/img/taishan/IMG_0780.JPG"></img>
+<img src="https://w.wallhaven.cc/full/9m/wallhaven-9mg29x.jpg"></img>
 
 ​	后面看到很多祈福的红绳，各自写着自己的心事。
 
@@ -37,13 +37,13 @@ typora-root-url: ..\..\themes\diaspora\source
 
 ​																		——摘自《网易云》
 
-<img src="../../themes/diaspora/source/img/taishan/IMG_0802.JPG"></img>
+<img src="https://w.wallhaven.cc/full/q2/wallhaven-q2o3l7.jpg"></img>
 
 祝这位小朋友愿望能够实现。
 
 ​	坚持坚持终于爬上了南天门，接着去玉皇顶，途中找那个宣传中的五岳独尊的大石头，找来找去没找到，去玉皇顶的路上看到一群人围着照相，一看竟然是找了半天的石头，跟宣传看到的不一样啊，没有大气的感觉。。。
 
-<img src="../../themes/diaspora/source/img/taishan/IMG_0859.JPG"></img>
+<img src="https://w.wallhaven.cc/full/1k/wallhaven-1k2dr9.jpg"></img>
 
 ​	下山的时候实在走不动了，便做了索道下山，泰山算是爬完了。
 
