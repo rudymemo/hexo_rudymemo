@@ -2,7 +2,7 @@
 title: 信息化碎片整理
 date: 2021-07-21 09:57:10
 mp3: /music/Sunny Choi - Happily Ever After.mp3
-cover: /img/wallhaven-pk3k33.jpg
+cover: 'https://i.loli.net/2021/11/09/Wyt9fBJAjeYTrHd.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 
 ---

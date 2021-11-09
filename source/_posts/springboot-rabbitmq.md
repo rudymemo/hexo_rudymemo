@@ -2,7 +2,7 @@
 title: springBoot连接rabbitMQ
 date: 2018-10-24
 mp3: /music/Again - Robert J. P. Oberg.flac
-cover: /img/wallhaven-341874.jpg
+cover: 'https://i.loli.net/2021/11/09/Xpmcq2hIaENs8dQ.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 ---
 

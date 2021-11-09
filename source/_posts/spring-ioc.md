@@ -2,7 +2,7 @@
 title: spring-ioc原理
 date: 2019-03-07
 mp3: /music/낡은 추억의 상자를 열었습니다 - Piano i.mp3
-cover: /img/wallhaven-748763.jpg
+cover: 'https://i.loli.net/2021/11/09/YeMo1qPZhxwL9nf.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 ---
 
@@ -230,7 +230,7 @@ typora-root-url: ..\..\themes\diaspora\source
 
 
 
-  ------
+------
 
 
 

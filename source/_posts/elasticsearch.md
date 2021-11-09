@@ -2,7 +2,7 @@
 title: elasticsearch单机版安装
 date: 2019-03-12 12:38:45
 mp3: /music/Memories - East Root.mp3
-cover: /img/wallhaven-749183.jpg
+cover: 'https://i.loli.net/2021/11/09/9qHIBlxL4vQdKyi.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 ---
 

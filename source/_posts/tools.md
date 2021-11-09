@@ -2,7 +2,7 @@
 title: 工欲善其事必先利其器
 date: 2019-09-30 15:18:06
 mp3: /music/Bossa De Saudade (remix) - 角田利之.mp3
-cover: /img/wallhaven-132wqw.jpg
+cover: 'https://i.loli.net/2021/11/09/5lzHR6Otj83biV2.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 ---
 

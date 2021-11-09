@@ -1,6 +1,7 @@
 ---
 title: 暴力猴获取百度网盘下载链接
 date: 2018-09-11 12:38:45
+cover: 'https://i.loli.net/2021/11/09/wWc9zFealHZDSkR.jpg'
 mp3: /music/Blue - Rob Simonsen.mp3
 ---
 暴力猴插件是一款可以支持UserScript用户脚本的浏览器扩展程序。

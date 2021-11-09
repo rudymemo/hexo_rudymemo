@@ -2,7 +2,7 @@
 title: rabbitMQ安装
 date: 2018-10-23 12:38:45
 mp3: /music/Olimpica - Roberto Cacciapaglia.mp3
-cover: /img/wallhaven-508095.jpg
+cover: 'https://i.loli.net/2021/11/09/G9CNyXnx2FpR5qU.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 ---
 
