@@ -2,7 +2,7 @@
 title: 泰山
 date: 2021-10-21 20:3026
 mp3: /music/Memories - East Root.mp3
-cover: 'https://w.wallhaven.cc/full/72/wallhaven-72rd8e.jpg'
+cover: 'https://i.loli.net/2021/11/09/O5c8Vyz264HRibs.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 
 ---
@@ -37,7 +37,7 @@ typora-root-url: ..\..\themes\diaspora\source
 
 ​																		——摘自《网易云》
 
-<img src="https://w.wallhaven.cc/full/q2/wallhaven-q2o3l7.jpg"></img>
+<img src="https://i.loli.net/2021/11/09/O5c8Vyz264HRibs.jpg"></img>
 
 祝这位小朋友愿望能够实现。
 
