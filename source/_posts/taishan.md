@@ -2,7 +2,7 @@
 title: 泰山
 date: 2021-10-21 20:3026
 mp3: /music/Memories - East Root.mp3
-cover: /img/wallhaven-odyl99.jpeg
+cover: 'https://w.wallhaven.cc/full/72/wallhaven-72rd8e.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 
 ---
