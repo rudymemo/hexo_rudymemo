@@ -45,7 +45,7 @@ pagination_dir: page
 theme: diaspora
 deploy:
   type: git
-  repository: 'git@github.com:rudymemo/rudymemo.github.io.git'
+  repository: 'https://github.com/rudymemo/rudymemo.github.io.git'
   branch: master
 search:
   path: search.json
