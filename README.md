@@ -1,1 +1,1 @@
-# hexo_rudymemo
+# hexo 项目
