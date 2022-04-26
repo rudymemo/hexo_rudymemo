@@ -118,6 +118,6 @@ typora-root-url: ..\..\themes\diaspora\source
   修改为本机IP，去掉注释即可。
 
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261112444.png)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261112444.png)
 
 至此单机版完成。

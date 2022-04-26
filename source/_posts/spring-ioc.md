@@ -349,4 +349,4 @@ typora-root-url: ..\..\themes\diaspora\source
 
 
 
-![](/img/ioc/微信图片_20190128162829.png)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261402871.png)

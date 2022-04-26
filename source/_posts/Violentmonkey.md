@@ -8,5 +8,5 @@ mp3: /music/Blue - Rob Simonsen.mp3
 使用
 1. Google商店搜索暴力猴下载安装插件
 2. 安装JS [https://greasyfork.org/zh-CN/scripts](https://greasyfork.org/zh-CN/scripts) 搜索百度网盘
-3. 打开百度网盘![image-20220426111453996](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261114032.png)
+3. 打开百度网盘![image-20220426111453996](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261114032.png)
 4. 更多功能可自行查阅

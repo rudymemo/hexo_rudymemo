@@ -12,7 +12,7 @@ typora-root-url: ..\..\themes\diaspora\source
 
 系统版本：
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261110126.png)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261110126.png)
 
 
 
@@ -20,9 +20,9 @@ typora-root-url: ..\..\themes\diaspora\source
 
 按照官网说明安装的是最新版本的，中间踩过不少坑，缺少的gcc以及socat就不说了，安装就行了，我的最终结果如下图：
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261110265.png)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261110265.png)
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261110199.png)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261110199.png)
 
 我是很无语，最终选择放弃。
 
@@ -57,7 +57,7 @@ rabbitmq-plugins enable rabbitmq_management
 
 默认用户名密码：guest/guest，只不过guest用户只能在localhost下访问（为了安全），可以更改配置文件将ebin目录下rabbit.app中loopback_users里的<<"guest">>删除（不建议，现在我主要是以启动进入为目的，后面再好好研究）。
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261110400.png)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261110400.png)
 
 
 

@@ -14,13 +14,13 @@ DNS我选的是[cloudflare](https://www.cloudflare.com/)，具体注册流程就
 
 - 首先添加站点：
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261111781.jpg)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261111781.jpg)
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261111226.jpg)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261111226.jpg)
 
 - 选择Free，然后Confirm plan
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261111757.png)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261111757.png)
 
 
 
@@ -28,11 +28,11 @@ DNS我选的是[cloudflare](https://www.cloudflare.com/)，具体注册流程就
 
 
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261111082.png)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261111082.png)
 
 - 然后continue
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261111280.jpg)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261111280.jpg)
 
 这个就是需要去域名注册商删除现在的第一步提示的DNS记录，然后替换成Nameserver1和Nameserver2。
 
@@ -40,11 +40,11 @@ DNS我选的是[cloudflare](https://www.cloudflare.com/)，具体注册流程就
 
 修改完成之后等待结果，一般修改正确很快就可以了，成功入下图所示：
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261111835.jpg)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261111835.jpg)
 
 - 问了几个朋友访问都很快
 
-![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261111263.png)
+![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/img/202204261111263.png)
 
 ![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261111756.png)
 
