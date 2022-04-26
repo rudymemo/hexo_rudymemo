@@ -2,7 +2,7 @@
 title: spring boot 日志原理
 date: 2018-11-02
 mp3: /music/Blue - Rob Simonsen.mp3
-cover: 'https://i.loli.net/2021/11/09/sc9MOp2L3RH4i6q.jpg'
+cover: 'https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn@main/20220424/yduzlIMYmfB248a.79lzzqc8mi40.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 ---
 

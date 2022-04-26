@@ -2,7 +2,7 @@
 title: windows脚本拷贝文件到共享文件夹
 date: 2020-06-03 17:09:41
 mp3: /music/Abundance of the Heart - Rachel Currea.mp3
-cover: 'https://i.loli.net/2021/11/09/HX2ZuOofYNwq31W.jpg'
+cover: 'https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn@main/20220424/rudy.3uyoda6f9oa0.png'
 typora-root-url: ..\..\themes\diaspora\source
 
 ---

@@ -2,7 +2,7 @@
 title: GitHub个人网站修改DNS，解决国内访问慢的问题
 date: 2019-09-26 15:08:06
 mp3: /music/Letting Go - Paul Cardall.mp3
-cover: 'https://i.loli.net/2021/11/09/1iKnV724WsONmbl.jpg'
+cover: 'https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn@main/20220424/9qHIBlxL4vQdKyi.2fff1x6i5tus.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 ---
 

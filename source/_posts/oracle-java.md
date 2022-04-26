@@ -2,7 +2,7 @@
 title: Oracle,Java 加解密互通实现（转载）
 date: 2021-08-05 11:45:10
 mp3: /music/Postiljonen - On the Run.mp3
-cover: 'https://i.loli.net/2021/11/09/X8jUcWsLPM4ivrb.jpg'
+cover: 'https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn@main/20220424/Wyt9fBJAjeYTrHd.422vot79fog0.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 
 

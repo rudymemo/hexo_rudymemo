@@ -2,7 +2,7 @@
 title: spring-boot源码分析
 date: 2019-01-11
 mp3: /music/本当の优しさとは… - 渡辺俊幸.mp3
-cover: 'https://i.loli.net/2021/11/09/aQXYkENqLMHl2yn.jpg'
+cover: 'https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn@main/20220424/G9CNyXnx2FpR5qU.6nhtij5jyg40.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 ---
 

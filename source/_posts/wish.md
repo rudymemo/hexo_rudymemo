@@ -2,7 +2,7 @@
 title: 愿望
 date: 2019-12-19 23:23:18
 mp3: /music/Kevin Penkin - Florence.mp3
-cover: 'https://i.loli.net/2021/11/09/HIlKCisNx29RzPY.jpg'
+cover: 'https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn@main/20220424/HIlKCisNx29RzPY.1fdnup21bfs0.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 
 ---

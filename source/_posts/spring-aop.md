@@ -2,7 +2,7 @@
 title: spring-aop原理
 date: 2019-03-06
 mp3: /music/Love Theme - Henry Mancini.mp3
-cover: 'https://i.loli.net/2021/11/09/yduzlIMYmfB248a.jpg'
+cover: 'https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn@main/20220424/YeMo1qPZhxwL9nf.2bgxv6y6hn40.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 ---
 

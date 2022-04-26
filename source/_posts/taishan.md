@@ -2,7 +2,7 @@
 title: 泰山
 date: 2021-10-21 20:3026
 mp3: /music/Memories - East Root.mp3
-cover: 'https://i.loli.net/2021/11/09/O5c8Vyz264HRibs.jpg'
+cover: 'https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn@main/20220424/rudy.6smfu276z8w0.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 
 ---

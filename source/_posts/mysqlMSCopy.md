@@ -2,7 +2,7 @@
 title: mysql主主复制
 date: 2022-03-24 10:40:00
 mp3: /music/Sunny Choi - Happily Ever After.mp3
-cover: 'https://s2.loli.net/2022/03/24/qpdSJoD2zZt6YQ9.jpg'
+cover: 'https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn@main/20220424/qpdSJoD2zZt6YQ9.zne9bs9ijls.jpg'
 typora-root-url: ..\..\themes\diaspora\source
 
 
