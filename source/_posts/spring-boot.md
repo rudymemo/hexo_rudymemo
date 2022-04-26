@@ -53,15 +53,15 @@ typora-root-url: ..\..\themes\diaspora\source
 
   启动tomcat，在idea中找到TomcatWebServer类，然后断点调试如下图：
 
-  ![](/img/springboot/tomcat_20190306114739.png)
+  ![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261109258.png)
 
   可以一直往上找，找到getWebServer方法可以看到tomcat的实例化写法，如下图：
 
-  ![](/img/springboot/tomcat_20190306115059.png)
+  ![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261109881.png)
 
   可以看到tomcat是通过new Tomcat()来进行实例化的。tomcat得到之后再来看initialize()方法，如下图：
 
-  ![](/img/springboot/tomcat_20190306115400.png)
+  ![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261109049.png)
 
   然后调用this.tomcat.start()方法来启动tomcat。
 

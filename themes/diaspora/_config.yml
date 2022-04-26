@@ -21,7 +21,7 @@ mp3:
 welcome_cover: # /img/welcome-cover.jpg
 
 # 默认文章封面图
-cover: /img/cover.jpg
+cover: 'https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261118212.jpg'
 
 # 是否关闭默认滚动条
 scrollbar: true

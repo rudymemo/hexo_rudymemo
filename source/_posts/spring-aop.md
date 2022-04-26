@@ -119,7 +119,7 @@ typora-root-url: ..\..\themes\diaspora\source
 
   测试结果如下图：
 
-  ![](/img/aop/微信截图_20190307143441.png)
+  ![](https://cdn.jsdelivr.net/gh/rudymemo/picx.xpoet.cn/202204261110868.png)
 
   可以看到横切的结果，已经实现。
 
